@@ -169,3 +169,8 @@ if __name__ == "__main__":
     plt.legend()
     plt.grid(True)
     plt.show()
+git init
+git add .
+git commit -m "Erster Commit: Backtesting-Code und Anforderungen"
+git remote add origin https://github.com/mrpanig/backtesting.git
+git push -u origin master
